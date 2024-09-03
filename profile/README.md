@@ -11,4 +11,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Welcome to LiDNY, a small tech project made by Katanium, SonicPika, Wineliko and Wixetech
+Welcome to LiDNY, a small tech project founded by SonicPika, later joined into by Wixetech, Katanium and Wineliko
+
+Join us in our Discord!: https://dsc.gg/lidny
+
+We Exist since 2021 and try to help you in ur life since
+
+If you want to contribute, just fork :)
