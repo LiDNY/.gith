@@ -15,6 +15,6 @@ Welcome to LiDNY, a small tech project founded by SonicPika, later joined into b
 
 Join us in our Discord!: https://dsc.gg/lidny
 
-We Exist since 2021 and try to help you in ur life since
+We Exist since 2021 and try to code the best stuff for you since
 
 If you want to contribute, just fork :)
